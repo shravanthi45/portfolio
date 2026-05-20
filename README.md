@@ -1,6 +1,7 @@
-🌟 Personal Portfolio Website
+🌟 Personal Portfolio Website 🌟
 
-Welcome to my personal portfolio website! This portfolio showcases my projects, skills, experience, and journey in Data Analytics, Machine Learning, and Generative AI.
+Welcome to my personal portfolio website! 
+This portfolio showcases my projects, skills, experience, and journey in Data Analytics, Machine Learning, and Generative AI.
 
 👩‍💻 About Me
 
@@ -60,20 +61,6 @@ Worked on data cleaning, SQL querying, data visualization, reporting, and extrac
 🐙 GitHub: https://github.com/shravanthi45  
 💼 LinkedIn: https://www.linkedin.com/in/shravanthi-m-50b825304/
 📧 Email: shravanthim45@gmail.com 
-
-⚙️ Run Locally
-
-📥 Clone the repository
-
-git clone https://github.com/your-username/your-portfolio.git
-
-📦 Install dependencies
-
-npm install
-
-▶️ Run the project
-
-npm start
 
 🚀 Future Improvements
 
