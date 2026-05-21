@@ -69,6 +69,6 @@ Worked on data cleaning, SQL querying, data visualization, reporting, and extrac
 🔍 Add project filtering  
 📝 Add blog section  
 
-🙏 Thank You
+Thank You 🙏
 
 Thank you for visiting my portfolio! Feel free to connect with me for opportunities, collaborations, or discussions around Data Analytics, AI, and Machine Learning.
