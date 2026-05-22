@@ -1,4 +1,4 @@
-🌟 Personal Portfolio Website 🌟
+Personal Portfolio Website 🌟
 
 Welcome to my personal portfolio website! 
 This portfolio showcases my projects, skills, experience, and journey in Data Analytics, Machine Learning, and Generative AI.
